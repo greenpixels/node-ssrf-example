@@ -1,0 +1,13 @@
+{
+  "name": "node-ssrf-example",
+  "version": "1.0.0",
+  "description": "Showcases the dangers of requesting URLs from users",
+  "main": "src/index.mjs",
+  "scripts": {
+    "start": "node src/index.mjs"
+  },
+  "author": "Sven Peschau",
+  "license": "ISC",
+  "dependencies": {
+  }
+}
